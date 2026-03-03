@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**1juandcano/1juandcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Juan 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Junior Developer in training, passionate about technology and continuous learning.
+
+I’m currently working on improving my programming skills and building small personal projects.
+
+I’m currently learning Python and programming fundamentals.
+
+I’m looking to collaborate on beginner-friendly open source projects.
+
+I’m looking for help with best practices and real-world project experience.
+
+Ask me about Python basics, my learning journey, or why I decided to become a developer.
+
+How to reach me: (you can add your LinkedIn, email, or GitHub contact here)
+
+Pronouns: he/him
+
+⚡ Fun fact: I’m starting my journey as a developer and enjoying every step of the process.
+  
