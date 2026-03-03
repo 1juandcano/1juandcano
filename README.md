@@ -15,7 +15,7 @@ I’m looking for help with best practices and real-world project experience.
 
 Ask me about Python basics, my learning journey, or why I decided to become a developer.
 
-How to reach me: (you can add your LinkedIn, email, or GitHub contact here)
+How to reach me: 
 
 Pronouns: he/him
 
